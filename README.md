@@ -160,8 +160,5 @@
 
 ---
 
-**无限进步 🚀**
-
-<img src="https://profile-counter.glitch.me/gz82570636/count.svg" alt="Visitor Count" />
-
-</div>
+<img src="https://img.shields.io/badge/%E2%9C%A8%20无限进步的人%20%E2%9C%A8-00C853?style=for-the-badge&labelColor=1a1a2e" alt="无限进步的人🚀" />
+<br>
