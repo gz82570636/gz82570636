@@ -21,7 +21,7 @@
 | ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | ![ARM](https://img.shields.io/badge/ARM_A9-0091BD?style=flat-square&logo=arm&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![MediaPipe](https://img.shields.io/badge/MediaPipe-00A3E0?style=flat-square) | ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00ADD8?style=flat-square) |
 | ![51单片机](https://img.shields.io/badge/51单片机-000000?style=flat-square) | | | ![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=flat-square) |
-| ![QT](https://img.shields.io/badge/QT-41CD52?style=flat-square&logo=qt&logoColor=white) | | | ![MQTT](https://img.shields.io/badge/MQTT-3CBCBC?style=flat-square&logo=eclipsemosquitto&logoColor=white) |
+| ![NB-IoT](https://img.shields.io/badge/NB--IoT-00A1E0?style=flat-square) | | | |
 
 </div>
 
