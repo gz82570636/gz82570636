@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Chenyan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&random=false&width=500&lines=无限进步的人+%F0%9F%9A%80;Embedded+Developer+%F0%9F%94%A7;IoT+%7C+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Always+Learning...+%F0%9F%93%9A" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=无限进步的人+%F0%9F%9A%80;Embedded+Developer+%F0%9F%94%A7;IoT+%7C+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Always+Learning...+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 </div>
 
